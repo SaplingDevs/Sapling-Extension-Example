@@ -7,3 +7,5 @@
 
 # You wanna look any example?
 > Check [example extension](/example/)
+
+# You need help? Join to us [here!](https://discord.gg/96Uyt3KWT5)
