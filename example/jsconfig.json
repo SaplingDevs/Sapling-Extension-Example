@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@script-api/*": [ "scripts/@script-api/*" ],
+      "classes/*": [ "scripts/classes/*" ],
+      "lib/*": [ "scripts/lib/*" ]
+    },
+    "module": "ESNext",
+    "allowJs": true, 
+    "moduleResolution": "node" 
+  }
+}

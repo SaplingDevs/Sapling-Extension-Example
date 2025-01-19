@@ -1,0 +1,32 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Sapling Extension", 
+		"description": "Developed by §uAlecsDeveloper",
+		"uuid": "398cf58d-9e66-46f8-ad8e-c483de84128d",
+		"min_engine_version": [ 1, 21, 40 ],
+		"version": [ 1, 0, 0 ]
+	},
+	"modules": [
+		{
+			"description": "Behavior Pack Module",
+			"type": "data",
+			"uuid": "9ae4f509-cfa2-4eea-a6f1-0262148c0c0b",
+			"version": [ 1, 0, 0 ]
+		},
+		{
+			"description": "Gametest Module",
+			"type": "script",
+			"language": "javascript",
+			"entry": "scripts/main.js",
+			"uuid": "44258264-3c1e-4bc3-b9e4-c3697a418f56",
+			"version": [ 1, 0, 0 ]
+		}
+	],
+	"dependencies": [
+		{
+			"module_name": "@minecraft/server",
+			"version": "1.16.0"
+		}
+	]
+}

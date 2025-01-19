@@ -1,2 +1,3 @@
 # Sapling-Extension-Example
-A Sapling extension example
+
+Check the example folder!
